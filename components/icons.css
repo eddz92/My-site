@@ -4,18 +4,18 @@
 	font-weight: bold;
 }
 
-.background-white {
+.background-white {cursor: zoom-in;
 	background-color: white;
 
 }
 
-.background-white h2 {
+.background-white h2 {cursor: zoom-in;
 	color: black;
 	padding-top: 50px;
 	font-family: 'Lato', sans-serif;
 }
 
-.background-blue {
+.background-blue {cursor: zoom-in;
 	background-color: #88C0ED;
 	padding-top: 50px;
 	padding-bottom: 200px;

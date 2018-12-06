@@ -1,9 +1,10 @@
-.navbar {
+.navbar {cursor: zoom-in;
 background-color: white; 
 display: flex; 
 justify-content: space-between;
 align-items: left;
 color:black;
+font-family: 'Anton', sans-serif;
 } 
 
 .list {
@@ -21,5 +22,22 @@ height: 40px;
 margin-top: 15px; 
 margin-bottom: 15px; 
 }
-.mar{font-family: 'Anton', sans-serif;
+
+
+.enlarge {
+	flex-grow: 1;
+}
+
+.mar{ 
+	padding-left: 10px;
+	padding-top: 2px;
+	font-family:'Graduate';
+	font-size: 35px;
+	color:#ec2930;
+}
+a{text-decoration: none;
+	color: black;
+}
+a:hover, a:visited, a:link, a:active
+{text-decoration: none;
 }

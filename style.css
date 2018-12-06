@@ -1,6 +1,7 @@
 @import url(components/icons.css);
 @import url(components/button.css);
 @import url(components/navbar.css);
+@import url(components/banner.css);
 
 /*
 img {
@@ -33,7 +34,6 @@ a {
   color: black;
   font-weight: bolder;
 }
-
 .banner {
 background-color: #c0e4f9;
 height: 400px; 
@@ -50,13 +50,12 @@ text-align: center;
 }
 .list li {
 	display: inline;
-	padding: 20px;
+	padding: 25px;
 	color: black;
-	font-family: 'Bungee', regular;
+	font-family: 'open sans',sans-serif;
 }
 .section {cursor: zoom-in;
 	color: black;
-	font-family: 'Roboto', sans-serif;
 	font-style: bold;
 }
 
@@ -87,4 +86,3 @@ h1 {padding:110px;
 h3 {background-color: black;
 	margin-bottom: 30px;
 }
-

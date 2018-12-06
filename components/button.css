@@ -1,7 +1,7 @@
 .android {cursor: zoom-in;
 	background-color: white;
 	border: none;
-    color: green;
+    color: #a4c639;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -27,4 +27,3 @@
     font-weight: bold;
 }
 
-.apple:hover 
